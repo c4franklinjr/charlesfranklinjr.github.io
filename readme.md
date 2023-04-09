@@ -9,10 +9,6 @@ Charles Franklin Jr Demo
     </div>
 </div>
 
-<iframe src="https://demo-appointments.spoton.com/appointment_wizard/43377a58-b161-49a6-b57c-f452afda286b/" width="100%" height="100%"></iframe>
-Short Link
-
-
 [https://demo.appt.info/w/43377](https://demo.appt.info/w/43377)
 
 [https://demo-appointments.spoton.com/book/demo-charles-franklin-jr-senior-account-executive-](https://demo-appointments.spoton.com/book/demo-charles-franklin-jr-senior-account-executive-)
